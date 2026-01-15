@@ -17,20 +17,20 @@ const Index = () => {
   const portfolioItems = [
     {
       id: 1,
-      title: "Современная гостиная",
-      image: "https://cdn.poehali.dev/projects/0aaa82db-fec2-43c4-ae1a-93c16000b7c9/files/dbde4069-a6fa-4975-8cec-f904c725351b.jpg",
+      title: "Элегантная прихожая",
+      image: "https://cdn.poehali.dev/files/IMG_2317.jpeg",
       category: "Жилые интерьеры"
     },
     {
       id: 2,
-      title: "Элегантная спальня",
-      image: "https://cdn.poehali.dev/projects/0aaa82db-fec2-43c4-ae1a-93c16000b7c9/files/3fe6d4b3-923f-4d70-849d-1d72a5f22bf2.jpg",
+      title: "Элегантная прихожая",
+      image: "https://cdn.poehali.dev/files/IMG_2317.jpeg",
       category: "Жилые интерьеры"
     },
     {
       id: 3,
-      title: "Минималистичная кухня",
-      image: "https://cdn.poehali.dev/projects/0aaa82db-fec2-43c4-ae1a-93c16000b7c9/files/1f4f1fa7-c364-4ba5-8b37-9bcf6d9ef1fc.jpg",
+      title: "Элегантная прихожая",
+      image: "https://cdn.poehali.dev/files/IMG_2317.jpeg",
       category: "Жилые интерьеры"
     }
   ];
