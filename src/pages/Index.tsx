@@ -97,7 +97,7 @@ const Index = () => {
           <h2 className="text-6xl md:text-8xl font-bold mb-6 tracking-tight">
             Создаю пространства,
             <br />
-            <span className="text-primary">которые вдохновляют</span>
+            <span className="text-[#ffffff]">которые вдохновляют</span>
           </h2>
           <p className="text-xl md:text-2xl text-muted-foreground mb-12 max-w-3xl mx-auto">
             Профессиональный дизайн интерьера с индивидуальным подходом к каждому проекту
